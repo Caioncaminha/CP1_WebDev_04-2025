@@ -39,5 +39,6 @@ Abaixo de 18.5: "Abaixo do peso"
 Peça ao usuário para digitar um número. Use if...else para determinar se o número é positivo, negativo ou zero e exiba o resultado.
 
 ### Integrantes
-Caio Nascimento Caminha
-Gusthavo Costa de Melo
+- Caio Nascimento Caminha
+
+- Gusthavo Costa de Melo
