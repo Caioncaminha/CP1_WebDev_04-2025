@@ -1,0 +1,5 @@
+//IMC = peso / (altura * altura)
+const peso = document.getElementsByClassName('peso')
+const altura = document.getElementsByClassName('altura')
+const imc = peso / (altura * altura)
+console.log(imc)
